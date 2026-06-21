@@ -140,3 +140,5 @@ See `requirements.txt` for the complete list of dependencies.
 ## License
 
 This project is intended for learning and educational purposes.
+
+mention author name.
